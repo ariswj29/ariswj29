@@ -3,12 +3,12 @@
 I'm Aris Wildan Jannatan, a Software Engineer from Indonesia.
 
 - 🔭 I'm currently working on PT. MARDAWA INTIGUNA PERSADA
-- 🌱 I'm currently Backend Developer, i using Laravel and AdonisJS
+- 🌱 I'm currently Backend Developer, i use Laravel and AdonisJS
 - 📫 How to reach me:
-    - [LinkedIn](https://www.linkedin.com/in/aris-wildan-b49a24226/)
-    - [Instagram](https://www.instagram.com/ariswj_)
-    - [Twitter](https://twitter.com/ariswildan7)
-    - [Email](mailto:ariswj29@gmail.com)
+    - <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="25" /> [LinkedIn](https://www.linkedin.com/in/aris-wildan-b49a24226/)
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25" /> [Instagram](https://www.instagram.com/ariswj_)
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25" /> [Twitter](https://twitter.com/ariswildan7)
+    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25" /> [Email](mailto:ariswj29@gmail.com)
 - ⚡ Fun fact: I love to listening music and watching movies
 
 
